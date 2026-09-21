@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><meta charset="UTF-8"><title>Privacy Policy — Personal Mail Integration</title></head>
+<body>
+<h1>Privacy Policy</h1>
+<p>Last updated: [date]</p>
+<h2>What data is accessed</h2>
+<p>Email messages, folders, and labels in the connected Gmail account, accessed via Google's mail API scope.</p>
+<h2>How data is used</h2>
+<p>Solely to read and send email through the user's own private email client. Data is never shared with, sold to, or processed by any third party.</p>
+<h2>How data is stored</h2>
+<p>OAuth tokens and cached email data are stored only on the operator's own private server and are never transmitted elsewhere.</p>
+<h2>Revoking access</h2>
+<p>Access can be revoked at any time from <a href="https://myaccount.google.com/permissions">Google Account → Third-party access</a>, or by disconnecting the account in the email client.</p>
+<h2>Contact</h2>
+<p>[your support email]</p>
+</body>
+</html>
